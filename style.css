@@ -1,0 +1,26 @@
+h1{
+  color:red;
+  text-al-ign:center;
+nckground-color: black;
+  font-family: monopace;
+}
+p{
+  tex-align:justify;
+}
+strong{
+  color:red;
+}
+nav{
+  position:absolute;
+  top: 0;
+  right: 0;
+}
+.caixa{
+  widh: 940px;/*define como um elemento pode  ser posicionado*/
+  position:relative;/* como um elemento pode ser posicionado na pagina*/
+  
+  margin: 0 auto;/*é uma prioridade que define todas as imagens individuais em uma so vez*/
+}
+header{
+  padding: 20px;/*padding espaçamento interno do elemento*/
+}
